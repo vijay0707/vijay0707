@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay0707&label=Profile%20views&color=0e75b6&style=flat" alt="vijay0707" /> </p>
 
-- 🌱 I’m currently learning **on how to build optimized data infrastructure**
+- 🌱 I’m currently learning **How to build optimized data driven softwares and systems**
 
 - 👨‍💻 All of my projects are available at [https://vijay0707.github.io/portfolio-website/](https://vijay0707.github.io/portfolio-website/)
 
