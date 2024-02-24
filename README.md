@@ -20,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-kumar-saravanan-71b8561a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-kumar-saravanan-71b8561a2/" height="30" width="40" /></a>
-<a href="https://hashnode.com/vijay0707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vijay0707" height="30" width="40" /></a>
 <a href="/https://techjutsuwithvj.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://techjutsuwithvj.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
