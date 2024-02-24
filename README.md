@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vijay.saravanan0707@gmail.com**
 
-### Blogs posts
+<!--  ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
