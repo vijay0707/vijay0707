@@ -29,7 +29,7 @@ I build the infrastructure and models that make data useful — from ingestion p
 ### Writing
 
 I write about data systems, AI engineering, and the craft of building reliable software.
-→ [techjutsuwithvj.hashnode.dev](https://techjutsuwithvj.hashnode.dev/)
+→ [substack](https://vijaykumarsaravanan.substack.com/)
 
 ---
 
