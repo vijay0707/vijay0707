@@ -48,7 +48,7 @@ If you're building something in this space, I'd like to hear about it.
 
 ### Links
 
-[Portfolio](https://vijay0707.github.io/portfolio-website/) · [LinkedIn](https://www.linkedin.com/in/vijay-kumar-saravanan-71b8561a2/) · [Blog](https://techjutsuwithvj.hashnode.dev/)
+[Portfolio](https://vijaysaran.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/vijay-kumar-saravanan-71b8561a2/) · [Blog](https://vijaykumarsaravanan.substack.com/)
 
 ---
 
